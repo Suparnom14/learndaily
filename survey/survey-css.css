@@ -17,7 +17,7 @@ body {
 }
 
 form {
-  width: 400px;
+  width: device-width;
   padding: 30px;
   color: #fff;
   background-color: #2CA0F6;
