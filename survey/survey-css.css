@@ -46,9 +46,9 @@ input[type="submit"]:hover {
   background-color: #2EF62C;
 }
 
-/* let's make the form mobile friendly */
+/* let's make the form mobile friendly 
 @media (max-width:device-width) {
   form{
     width: 300px;
-  }
+  }*/
 }
