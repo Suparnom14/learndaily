@@ -47,7 +47,7 @@ input[type="submit"]:hover {
 }
 
 /* let's make the form mobile friendly */
-@media (max-width: 576px) {
+@media (max-width:device-width) {
   form{
     width: 300px;
   }
